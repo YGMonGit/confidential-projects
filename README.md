@@ -1,6 +1,6 @@
 # Private Projects Showcase
 
-> **This repository contains private projects. Access is available upon request.**
+> **The repository contains private projects. Access is available upon request.**
 
 ## About
 This repository serves as a showcase for selected private projects that demonstrate my skills and expertise. While the code is not publicly accessible, I am open to sharing it upon request with potential collaborators, employers, or clients.
